@@ -24,7 +24,6 @@ This repository is for a group assignment where we, a group of five members, wil
 ## Repository Structure
 
 ```
-/solidity-course
     /alchemy-university
         /materials
             - course_notes.md
