@@ -72,7 +72,7 @@ For any questions or issues, please contact the group members.
 
 ### Group Members
 
-- Ermias Teklemarkos ermaatekk@gmail.com
-- Hayat Shemsu 
-- Foziya 
-- Nazrawit
+- Ermias Teklemarkos ermaatekk@gmail.com ugr/23478/13
+- Hayat Shemsu ugr/23107/13
+- Fozia kassa   ugr/23319/13 
+- Nazrawit Netsanet ugr/23127/13
