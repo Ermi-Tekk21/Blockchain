@@ -4,10 +4,11 @@
 This repository is for a group assignment where we, a group of five members, will collaboratively complete a Solidity course. The assignment constitutes 10% of our grade.
 
 ## Contents Overview
-lesson-1 | Introduction
-lesson-2 | Address Interactions
-lesson-3 | Reference Types
-lesson-4 | Applied Solidity
+
+- lesson-1 | Solidity Introduction
+- lesson-2 | Address Interactions
+- lesson-3 | Reference Types
+- lesson-4 | Applied Solidity
 
 ## Instructions
 
