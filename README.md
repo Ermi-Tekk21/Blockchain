@@ -1,5 +1,7 @@
 # Lab Assignment - Solidity Course Collaboration
 
+![Solidity](https://blockchainsimplified.com/blog/solidity-programming-the-smart-contract-language-in-ethereum/solidity-programming-main.jpg)
+
 ## Overview
 This repository is for a group assignment where we, a group of five members, will collaboratively complete a Solidity course. The assignment constitutes 10% of our grade.
 
