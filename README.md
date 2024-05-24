@@ -21,39 +21,6 @@ This repository is for a group assignment where we, a group of five members, wil
    - **Screenshots**: Provide screenshots showing the completed progress of the course.
    - **Organization**: All resources should be organized in appropriate folders.
 
-## Repository Structure
-
-```
-    /alchemy-university
-        /materials
-            - course_notes.md
-            - reference_materials.pdf
-        /code
-            - lesson1
-                - example1.sol
-                - example2.sol
-            - lesson2
-                - example1.sol
-                - example2.sol
-        /progress_screenshots
-            - lesson1_completion.png
-            - lesson2_completion.png
-    /cyfrin-updraft
-        /materials
-            - course_notes.md
-            - reference_materials.pdf
-        /code
-            - lesson1
-                - example1.sol
-                - example2.sol
-            - lesson2
-                - example1.sol
-                - example2.sol
-        /progress_screenshots
-            - lesson1_completion.png
-            - lesson2_completion.png
-```
-
 ## Contribution Guidelines
 
 - Each member is expected to contribute regularly to the repository.
@@ -66,13 +33,9 @@ This repository is for a group assignment where we, a group of five members, wil
 - The final submission should include the GitHub repository link.
 - Deadline for submission is **May 24, 2024**.
 
-## Contact
-
-For any questions or issues, please contact the group members.
-
 ### Group Members
 
-- Ermias Teklemarkos ermaatekk@gmail.com ugr/23478/13
-- Hayat Shemsu ugr/23107/13
-- Fozia kassa   ugr/23319/13 
-- Nazrawit Netsanet ugr/23127/13
+- Ermias Teklemarkos ---- ugr/23478/13
+- Hayat Shemsu ---------- ugr/23107/13
+- Fozia kassa ----------- ugr/23319/13 
+- Nazrawit Netsanet ----- ugr/23127/13
